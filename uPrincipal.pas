@@ -1,3 +1,10 @@
+{================================================================================
+ Descrição     : Código Referente à Vídeo Aula 96 - Lista de Objetos
+ Local Vídeo   : YouTube - Conteúdo Delphi - Canal do Zanca
+          Link : https://youtu.be/cCrLfJMQvOs?si=j7IDZj2MP-8ea_PH
+ Elaborado Por : Manoel Zancheta
+================================================================================}
+
 unit uPrincipal;
 
 interface
